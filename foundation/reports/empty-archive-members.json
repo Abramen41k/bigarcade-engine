@@ -1,0 +1,48 @@
+[
+  {
+    "archive": "foundation/engine/godot/bin/obj/scene/libscene.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 circle_shape_2d.linuxbsd.editor.x86_64.o"
+    ]
+  },
+  {
+    "archive": "foundation/engine/godot/bin/obj/servers/libservers.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 display_server_headless.linuxbsd.editor.x86_64.o"
+    ]
+  },
+  {
+    "archive": "foundation/engine/godot/bin/obj/modules/libmodule_svg.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 tvgSvgPath.linuxbsd.editor.x86_64.o"
+    ]
+  },
+  {
+    "archive": "foundation/engine/godot/bin/obj/modules/libmodule_gdscript.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 gdscript_tokenizer_buffer.linuxbsd.editor.x86_64.o"
+    ]
+  },
+  {
+    "archive": "foundation/engine/godot/bin/obj/editor/libeditor.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 export.linuxbsd.editor.x86_64.o",
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 editor_atlas_packer.linuxbsd.editor.x86_64.o"
+    ]
+  },
+  {
+    "archive": "foundation/engine/godot/bin/obj/core/libcore.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 dtls_server.linuxbsd.editor.x86_64.o",
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 image_resource_format.linuxbsd.editor.x86_64.o",
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 fuzzy_search.linuxbsd.editor.x86_64.o"
+    ]
+  },
+  {
+    "archive": "foundation/engine/godot/bin/obj/modules/text_server_adv/libharfbuzz_builtin.linuxbsd.editor.x86_64.a",
+    "members": [
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 hb-ot-tag.linuxbsd.editor.x86_64.o",
+      "rw-r--r-- 0/0      0 Jan  1 03:00 1970 hb-raster-image.linuxbsd.editor.x86_64.o"
+    ]
+  }
+]

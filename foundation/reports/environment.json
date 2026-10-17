@@ -1,0 +1,14 @@
+{
+  "os": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "cpu": "AMD EPYC 9V74 80-Core Processor",
+  "cpu_max": "800000 100000",
+  "memory_max_bytes": "8589934592",
+  "gcc": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0",
+  "python": "3.12.14",
+  "scons": "4.11.1",
+  "display_available": false,
+  "gpu_benchmark_available": false,
+  "reason": "Xvfb could not establish permitted listening sockets; headless checks only",
+  "verification_host": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "verification_date_utc": "2026-10-17T16:09:45.180249+00:00"
+}

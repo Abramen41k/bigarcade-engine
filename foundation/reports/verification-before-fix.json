@@ -1,0 +1,68 @@
+{
+  "date_utc": "2026-10-17T16:09:48.270251+00:00",
+  "host": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "display": "headless",
+  "rendering_verified": false,
+  "success": false,
+  "checks": [
+    {
+      "name": "engine-tests",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--test",
+        "--test-case=*BigArcade*"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 0.2775472099999945
+    },
+    {
+      "name": "editor-import",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--editor",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--import"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 11.557860016000006
+    },
+    {
+      "name": "editor-startup",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--editor",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--quit-after",
+        "120"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 9.88408009799997
+    },
+    {
+      "name": "scene-integration",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--script",
+        "tests/integration.gd"
+      ],
+      "exit_code": 1,
+      "errors": [
+        "ERROR: FAILED: malformed nested state is rejected",
+        "ERROR: FAILED: failed restore preserves existing state",
+        "ERROR: FAILED: rapid teleports keep pending generation bounded"
+      ],
+      "duration_seconds": 8.08732661800002
+    }
+  ]
+}

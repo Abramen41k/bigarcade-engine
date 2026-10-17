@@ -1,0 +1,21 @@
+[
+  "foundation/engine/godot/bin/obj/scene/resources/2d/circle_shape_2d.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/core/variant/variant_destruct.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/core/io/image_resource_format.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/core/string/string_name.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/platform/linuxbsd/crash_handler_linuxbsd.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/platform/ios/export/export.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/modules/hdr/image_loader_hdr.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/modules/upnp/register_types.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/modules/gdscript/gdscript_tokenizer_buffer.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/thirdparty/vhacd/src/VHACD.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/thirdparty/harfbuzz/src/hb-raster-image.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/thirdparty/harfbuzz/src/hb-ot-tag.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/thirdparty/thorvg/src/loaders/svg/tvgSvgPath.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/servers/display/display_server_headless.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/editor/import/editor_atlas_packer.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/tests/scene/test_path_3d.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/tests/core/io/test_xml_parser.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/tests/core/math/test_quaternion.linuxbsd.editor.x86_64.o",
+  "foundation/engine/godot/bin/obj/tests/core/templates/test_span.linuxbsd.editor.x86_64.o"
+]

@@ -1,0 +1,38 @@
+; BigArcade Foundation laboratory. Native BigArcade module required.
+config_version=5
+
+[application]
+config/name="BigArcade · Foundation Lab"
+run/main_scene="res://scenes/lab.tscn"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon="res://assets/icon.svg"
+boot_splash/image="res://assets/splash.png"
+boot_splash/bg_color=Color(0.047, 0.067, 0.094, 1)
+
+[autoload]
+Telemetry="*res://scripts/telemetry.gd"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=800
+window/size/window_width_override=1280
+window/size/window_height_override=800
+window/stretch/mode="canvas_items"
+
+[physics]
+common/physics_ticks_per_second=60
+common/physics_interpolation=true
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
+textures/default_filters/use_nearest_mipmap_filter=false
+environment/defaults/default_clear_color=Color(0.025, 0.035, 0.055, 1)
+
+[editor_plugins]
+enabled=PackedStringArray("res://addons/bigarcade_studio/plugin.cfg")
+
+[bigarcade]
+performance/target_fps=60
+performance/quality="medium"
+world/seed=20261016

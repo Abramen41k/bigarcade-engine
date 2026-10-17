@@ -1,0 +1,172 @@
+{
+  "date_utc": "2026-10-17T16:11:24.611384+00:00",
+  "host": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "display": "headless",
+  "rendering_verified": false,
+  "success": true,
+  "checks": [
+    {
+      "name": "engine-tests",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--test",
+        "--test-case=*BigArcade*"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 0.2366625880000015
+    },
+    {
+      "name": "editor-import",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--editor",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--import"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 7.695430348000002
+    },
+    {
+      "name": "editor-startup",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--editor",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--quit-after",
+        "120"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.640509467000015
+    },
+    {
+      "name": "scene-integration",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--script",
+        "tests/integration.gd"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.184756563000008
+    },
+    {
+      "name": "benchmark-headless-2d-60",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--",
+        "--benchmark",
+        "--scene=2d",
+        "--duration=8",
+        "--fps=60",
+        "--output=/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/reports/benchmark-headless-2d-60.json"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.52582742100003
+    },
+    {
+      "name": "benchmark-headless-2d-120",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--",
+        "--benchmark",
+        "--scene=2d",
+        "--duration=8",
+        "--fps=120",
+        "--output=/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/reports/benchmark-headless-2d-120.json"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.538449784999955
+    },
+    {
+      "name": "benchmark-headless-isometric-60",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--",
+        "--benchmark",
+        "--scene=isometric",
+        "--duration=8",
+        "--fps=60",
+        "--output=/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/reports/benchmark-headless-isometric-60.json"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.636164758999996
+    },
+    {
+      "name": "benchmark-headless-isometric-120",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--",
+        "--benchmark",
+        "--scene=isometric",
+        "--duration=8",
+        "--fps=120",
+        "--output=/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/reports/benchmark-headless-isometric-120.json"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.615925279999999
+    },
+    {
+      "name": "benchmark-headless-3d-60",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--",
+        "--benchmark",
+        "--scene=3d",
+        "--duration=8",
+        "--fps=60",
+        "--output=/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/reports/benchmark-headless-3d-60.json"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.535070338000025
+    },
+    {
+      "name": "benchmark-headless-3d-120",
+      "command": [
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+        "--headless",
+        "--path",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/projects/lab",
+        "--",
+        "--benchmark",
+        "--scene=3d",
+        "--duration=8",
+        "--fps=120",
+        "--output=/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/reports/benchmark-headless-3d-120.json"
+      ],
+      "exit_code": 0,
+      "errors": [],
+      "duration_seconds": 8.515964880000013
+    }
+  ]
+}

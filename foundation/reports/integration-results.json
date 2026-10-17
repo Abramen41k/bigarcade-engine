@@ -1,0 +1,16 @@
+{
+  "checks": 21,
+  "display": "headless",
+  "failed": [],
+  "godot": {
+    "build": "custom_build",
+    "hash": "6c3ff96d4fb87c80765fb989154c114be92b2bbd",
+    "hex": 263938,
+    "major": 4,
+    "minor": 7,
+    "patch": 2,
+    "status": "stable",
+    "string": "4.7.2-stable (custom_build)",
+    "timestamp": 1792174220
+  }
+}

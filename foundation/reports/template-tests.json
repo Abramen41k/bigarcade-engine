@@ -1,0 +1,62 @@
+{
+  "results": [
+    {
+      "template": "2d",
+      "action": "import",
+      "exit_code": 0,
+      "errors": [],
+      "seconds": 9.400811469000018
+    },
+    {
+      "template": "2d",
+      "action": "run",
+      "exit_code": 0,
+      "errors": [],
+      "seconds": 1.4672807880000391
+    },
+    {
+      "template": "2d",
+      "action": "refuse-overwrite",
+      "passed": true
+    },
+    {
+      "template": "isometric",
+      "action": "import",
+      "exit_code": 0,
+      "errors": [],
+      "seconds": 8.82626832599999
+    },
+    {
+      "template": "isometric",
+      "action": "run",
+      "exit_code": 0,
+      "errors": [],
+      "seconds": 1.4445276980000017
+    },
+    {
+      "template": "isometric",
+      "action": "refuse-overwrite",
+      "passed": true
+    },
+    {
+      "template": "3d",
+      "action": "import",
+      "exit_code": 0,
+      "errors": [],
+      "seconds": 8.811029472999962
+    },
+    {
+      "template": "3d",
+      "action": "run",
+      "exit_code": 0,
+      "errors": [],
+      "seconds": 1.3563277219999463
+    },
+    {
+      "template": "3d",
+      "action": "refuse-overwrite",
+      "passed": true
+    }
+  ],
+  "success": true
+}

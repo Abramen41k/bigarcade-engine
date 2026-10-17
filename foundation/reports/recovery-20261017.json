@@ -1,0 +1,25 @@
+{
+  "cause": "zero-length intermediate objects; no confirmed upstream defect",
+  "empty_objects": [
+    "foundation/engine/godot/bin/obj/drivers/png/resource_saver_png.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/drivers/alsamidi/midi_driver_alsamidi.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/drivers/gles3/storage/config.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/tests/scene/test_style_box_texture.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/tests/scene/test_sprite_2d.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/tests/core/input/test_shortcut.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/tests/core/input/test_input_event.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/platform/android/export/export.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/servers/audio/audio_effect.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/thirdparty/etcpak/ProcessRGB.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/thirdparty/astcenc/astcenc_find_best_partitioning.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/thirdparty/jolt_physics/Jolt/TriangleSplitter/TriangleSplitter.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/thirdparty/glslang/SPIRV/doc.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/thirdparty/thorvg/src/renderer/tvgLoader.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/thirdparty/basis_universal/encoder/basisu_bc7enc.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/modules/godot_physics_3d/godot_area_pair_3d.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/editor/export/lipo.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/core/io/dtls_server.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/core/io/image_resource_format.linuxbsd.editor.x86_64.o",
+    "foundation/engine/godot/bin/obj/core/string/fuzzy_search.linuxbsd.editor.x86_64.o"
+  ]
+}

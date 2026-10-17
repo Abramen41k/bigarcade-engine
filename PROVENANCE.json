@@ -1,0 +1,19 @@
+{
+  "engine": "BigArcade Engine",
+  "version": "0.2.0-dev",
+  "status": "development checkpoint (not stable)",
+  "upstream": "Godot 4.7.2-stable",
+  "upstream_sha": "ed1daf0bf001b61586d9930840f2f1394092c079",
+  "bigarcade_fork_sha_as_reported": "6c3ff96d4fb87c80765fb989154c114be92b2bbd",
+  "note": "Source package derived from prior local artifact; GitHub Actions and device builds not rerun in this repackaging.",
+  "web_pixi_vite_files_included": false,
+  "files_in_compact": [
+    "foundation/** (except engine/godot)",
+    ".github/workflows/godot-foundation.yml",
+    "README.md",
+    ".gitignore",
+    "LICENSE.txt",
+    "PROVENANCE.json"
+  ],
+  "full_snapshot_git_metadata_included": false
+}

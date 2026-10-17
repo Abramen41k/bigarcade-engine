@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/godotengine/godot.git",
+  "tag": "4.7.2-stable",
+  "commit": "ed1daf0bf001b61586d9930840f2f1394092c079",
+  "release_date": "2026-08-18",
+  "bigarcade_version": "0.2.0-dev",
+  "scons": "4.11.1",
+  "upstream_cpp_standard": 17,
+  "bigarcade_cpp_standard": 20
+}

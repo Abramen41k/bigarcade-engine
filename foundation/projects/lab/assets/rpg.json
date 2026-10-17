@@ -1,0 +1,170 @@
+{
+  "frames": {
+    "ranger-idle": {
+      "frame": {
+        "x": 4,
+        "y": 4,
+        "w": 192,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 272
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.97
+      }
+    },
+    "ranger-step-a": {
+      "frame": {
+        "x": 204,
+        "y": 4,
+        "w": 192,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 272
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.97
+      }
+    },
+    "ranger-step-b": {
+      "frame": {
+        "x": 404,
+        "y": 4,
+        "w": 192,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 192,
+        "h": 272
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.97
+      }
+    },
+    "tree": {
+      "frame": {
+        "x": 604,
+        "y": 4,
+        "w": 384,
+        "h": 417
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 417
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 417
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.87
+      }
+    },
+    "arch": {
+      "frame": {
+        "x": 4,
+        "y": 429,
+        "w": 384,
+        "h": 412
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 384,
+        "h": 412
+      },
+      "sourceSize": {
+        "w": 384,
+        "h": 412
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.87
+      }
+    },
+    "altar": {
+      "frame": {
+        "x": 396,
+        "y": 429,
+        "w": 256,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 288
+      },
+      "anchor": {
+        "x": 0.5,
+        "y": 0.89
+      }
+    }
+  },
+  "animations": {
+    "walk": [
+      "ranger-step-a",
+      "ranger-idle",
+      "ranger-step-b",
+      "ranger-idle"
+    ],
+    "idle": [
+      "ranger-idle"
+    ]
+  },
+  "meta": {
+    "app": "BigArcade atlas builder",
+    "image": "rpg.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1",
+    "source": "art/source/rpg.png"
+  }
+}

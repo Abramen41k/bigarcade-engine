@@ -1,0 +1,8 @@
+Import("env")
+Import("env_modules")
+
+ba = env_modules.Clone()
+# Keep upstream and third-party code on Godot's C++17. Only this module uses C++20.
+ba.Replace(CXXFLAGS=[flag for flag in ba["CXXFLAGS"] if not str(flag).startswith(("-std=", "/std:"))])
+ba.Append(CXXFLAGS=["/std:c++20" if env.msvc else "-std=gnu++20"])
+ba.add_source_files(env.modules_sources, "*.cpp")

@@ -1,0 +1,31 @@
+{
+  "command": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "-m",
+    "SCons",
+    "platform=linuxbsd",
+    "target=editor",
+    "arch=x86_64",
+    "tests=yes",
+    "debug_symbols=no",
+    "lto=none",
+    "no_editor_splash=no",
+    "-j4",
+    "progress=no",
+    "optimize=none",
+    "wayland=no"
+  ],
+  "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "started_at": "2026-10-17T16:08:45.204789+00:00",
+  "duration_seconds": 27.928290843963623,
+  "exit_code": 0,
+  "fork_commit": "6c3ff96d4fb87c80765fb989154c114be92b2bbd",
+  "artifacts": [
+    {
+      "path": "engine/godot/bin/bigarcade.linuxbsd.editor.x86_64",
+      "bytes": 248192992,
+      "sha256": "e49999780129c49c1f6c6b50b08d061fece393fbc6122539f49519d36bd2b3bf"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[gd_scene load_steps=4 format=3]
+[ext_resource type="Script" path="res://scripts/demo_space.gd" id="1"]
+[ext_resource type="PackedScene" path="res://scenes/player_3d.tscn" id="2"]
+[sub_resource type="Environment" id="Environment"]
+background_mode = 1
+background_color = Color(0.065, 0.095, 0.13, 1)
+ambient_light_source = 3
+ambient_light_color = Color(0.51, 0.67, 0.76, 1)
+ambient_light_energy = 0.65
+tonemap_mode = 2
+fog_enabled = true
+fog_light_color = Color(0.09, 0.15, 0.18, 1)
+fog_density = 0.009
+[node name="World3D" type="Node3D"]
+script = ExtResource("1")
+mode = "3d"
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource("Environment")
+[node name="Sun" type="DirectionalLight3D" parent="."]
+rotation_degrees = Vector3(-55, -35, 0)
+light_color = Color(1, 0.87, 0.69, 1)
+light_energy = 1.2
+shadow_enabled = true
+directional_shadow_max_distance = 60.0
+[node name="Player" parent="." instance=ExtResource("2")]
+position = Vector3(8, 1.4, 8)

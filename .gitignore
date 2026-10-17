@@ -1,0 +1,22 @@
+# Generated build/editor caches
+__pycache__/
+*.pyc
+*.o
+*.obj
+*.os
+*.a
+*.so
+*.dll
+*.exe
+*.pdb
+*.lib
+*.log
+foundation/.tools/
+foundation/projects/lab/.godot/
+foundation/projects/lab/benchmark-output/
+foundation/projects/lab/created_scenes/
+foundation/engine/godot/bin/
+foundation/engine/godot/.sconsign*.dblite
+foundation/engine/godot/.sconf_temp/
+.DS_Store
+foundation/engine/godot/

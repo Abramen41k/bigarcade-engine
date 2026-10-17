@@ -1,0 +1,3102 @@
+{
+	"adapter": "",
+	"automatic": false,
+	"bigarcade": "0.2.0-dev",
+	"cpu": "AMD EPYC 9V74 80-Core Processor",
+	"date_utc": "2026-10-17T16:10:41",
+	"display": "headless",
+	"godot": {
+		"build": "custom_build",
+		"hash": "6c3ff96d4fb87c80765fb989154c114be92b2bbd",
+		"hex": 263938,
+		"major": 4,
+		"minor": 7,
+		"patch": 2,
+		"status": "stable",
+		"string": "4.7.2-stable (custom_build)",
+		"timestamp": 1792174220
+	},
+	"input_steps": 488,
+	"logical_cpus": 9,
+	"os": "Linux",
+	"physics_hz": 60,
+	"physics_interpolation": true,
+	"quality": "medium",
+	"renderer": "gl_compatibility",
+	"samples": [
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32261641,
+			"wall_ms": 16.668
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32262445,
+			"wall_ms": 16.738
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32263169,
+			"wall_ms": 16.581
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32263917,
+			"wall_ms": 16.802
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32264689,
+			"wall_ms": 16.577
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32265413,
+			"wall_ms": 16.602
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32266209,
+			"wall_ms": 16.651
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32266933,
+			"wall_ms": 16.784
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32267657,
+			"wall_ms": 16.602
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32269181,
+			"wall_ms": 16.703
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32269905,
+			"wall_ms": 16.637
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32270629,
+			"wall_ms": 16.67
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32271353,
+			"wall_ms": 16.607
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32518493,
+			"wall_ms": 16.914
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32519217,
+			"wall_ms": 16.62
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32522381,
+			"wall_ms": 16.821
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32523105,
+			"wall_ms": 17.026
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32523829,
+			"wall_ms": 16.21
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32524553,
+			"wall_ms": 16.731
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32525493,
+			"wall_ms": 16.772
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32526217,
+			"wall_ms": 16.528
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32526941,
+			"wall_ms": 16.788
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32527665,
+			"wall_ms": 16.549
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32528389,
+			"wall_ms": 16.642
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32529113,
+			"wall_ms": 16.727
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32529909,
+			"wall_ms": 16.584
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32530633,
+			"wall_ms": 16.717
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32531357,
+			"wall_ms": 16.668
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32532417,
+			"wall_ms": 16.584
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32533141,
+			"wall_ms": 16.668
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32533865,
+			"wall_ms": 16.746
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32534589,
+			"wall_ms": 16.978
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32535313,
+			"wall_ms": 16.551
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32536037,
+			"wall_ms": 16.532
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32536761,
+			"wall_ms": 16.678
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32537485,
+			"wall_ms": 16.573
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32538209,
+			"wall_ms": 16.769
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32538933,
+			"wall_ms": 16.67
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32539657,
+			"wall_ms": 16.653
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32540381,
+			"wall_ms": 16.649
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32541105,
+			"wall_ms": 16.669
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32541829,
+			"wall_ms": 16.765
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32543057,
+			"wall_ms": 16.526
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32543781,
+			"wall_ms": 16.802
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32544505,
+			"wall_ms": 16.501
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32545229,
+			"wall_ms": 16.835
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32545953,
+			"wall_ms": 16.507
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32546677,
+			"wall_ms": 16.764
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32547401,
+			"wall_ms": 16.659
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32548125,
+			"wall_ms": 16.612
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32548849,
+			"wall_ms": 16.694
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32549573,
+			"wall_ms": 16.676
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32550297,
+			"wall_ms": 16.662
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32551021,
+			"wall_ms": 16.552
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 31.656,
+			"process_cpu_ms": 0.897,
+			"static_memory_bytes": 32551745,
+			"wall_ms": 16.719
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32552469,
+			"wall_ms": 16.706
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32553193,
+			"wall_ms": 16.771
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32553989,
+			"wall_ms": 16.619
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32554713,
+			"wall_ms": 16.546
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32555437,
+			"wall_ms": 16.784
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32556161,
+			"wall_ms": 16.636
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32556885,
+			"wall_ms": 16.776
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32557529,
+			"wall_ms": 16.572
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32558997,
+			"wall_ms": 16.789
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32559721,
+			"wall_ms": 16.596
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32560445,
+			"wall_ms": 16.634
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32561169,
+			"wall_ms": 16.643
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32561893,
+			"wall_ms": 16.68
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32562617,
+			"wall_ms": 16.691
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32563341,
+			"wall_ms": 16.813
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32564065,
+			"wall_ms": 16.412
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32564789,
+			"wall_ms": 16.646
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32565321,
+			"wall_ms": 16.584
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32566117,
+			"wall_ms": 16.732
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32566841,
+			"wall_ms": 16.636
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32567565,
+			"wall_ms": 16.734
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32568289,
+			"wall_ms": 16.57
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32569013,
+			"wall_ms": 16.665
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32569737,
+			"wall_ms": 16.943
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32570461,
+			"wall_ms": 16.439
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32571185,
+			"wall_ms": 16.791
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32571909,
+			"wall_ms": 16.646
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32572633,
+			"wall_ms": 16.552
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32573357,
+			"wall_ms": 16.76
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32574081,
+			"wall_ms": 16.617
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32574805,
+			"wall_ms": 16.696
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32575529,
+			"wall_ms": 16.601
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32576253,
+			"wall_ms": 16.864
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32577049,
+			"wall_ms": 16.661
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32577773,
+			"wall_ms": 16.443
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32578497,
+			"wall_ms": 16.724
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32579221,
+			"wall_ms": 16.67
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32580137,
+			"wall_ms": 16.719
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32580861,
+			"wall_ms": 16.793
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32582713,
+			"wall_ms": 16.636
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32583437,
+			"wall_ms": 16.627
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32584161,
+			"wall_ms": 16.574
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32584693,
+			"wall_ms": 16.657
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32585417,
+			"wall_ms": 16.623
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32586141,
+			"wall_ms": 16.637
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32586865,
+			"wall_ms": 16.713
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32587589,
+			"wall_ms": 16.777
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32588313,
+			"wall_ms": 16.556
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32588605,
+			"wall_ms": 16.556
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32589329,
+			"wall_ms": 16.642
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32590053,
+			"wall_ms": 17.581
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32590777,
+			"wall_ms": 15.992
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32591501,
+			"wall_ms": 16.832
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32592225,
+			"wall_ms": 16.71
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32592949,
+			"wall_ms": 16.166
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32593673,
+			"wall_ms": 16.636
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32594397,
+			"wall_ms": 16.697
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32595121,
+			"wall_ms": 16.624
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32595845,
+			"wall_ms": 16.714
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.66,
+			"process_cpu_ms": 0.73,
+			"static_memory_bytes": 32596569,
+			"wall_ms": 16.761
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32597293,
+			"wall_ms": 16.568
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32598017,
+			"wall_ms": 16.648
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32598741,
+			"wall_ms": 16.666
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32599465,
+			"wall_ms": 16.713
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32600189,
+			"wall_ms": 16.573
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32600913,
+			"wall_ms": 16.637
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32601637,
+			"wall_ms": 16.766
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32602361,
+			"wall_ms": 16.578
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32603085,
+			"wall_ms": 16.703
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32603809,
+			"wall_ms": 16.694
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32604533,
+			"wall_ms": 16.679
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32605257,
+			"wall_ms": 16.69
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32605981,
+			"wall_ms": 16.694
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32606705,
+			"wall_ms": 16.619
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32607429,
+			"wall_ms": 16.547
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32608153,
+			"wall_ms": 16.881
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32608877,
+			"wall_ms": 16.463
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32609601,
+			"wall_ms": 16.673
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32610325,
+			"wall_ms": 16.683
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32611049,
+			"wall_ms": 16.665
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32611773,
+			"wall_ms": 16.652
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32612497,
+			"wall_ms": 16.75
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32613221,
+			"wall_ms": 16.567
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32613945,
+			"wall_ms": 16.659
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32614669,
+			"wall_ms": 16.71
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32615393,
+			"wall_ms": 16.723
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32617797,
+			"wall_ms": 16.761
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32618521,
+			"wall_ms": 16.573
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32619245,
+			"wall_ms": 16.662
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32619969,
+			"wall_ms": 16.696
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32620693,
+			"wall_ms": 16.614
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32621417,
+			"wall_ms": 16.607
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32622141,
+			"wall_ms": 16.743
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32622865,
+			"wall_ms": 16.648
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32623589,
+			"wall_ms": 16.747
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32624313,
+			"wall_ms": 16.606
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32625037,
+			"wall_ms": 16.646
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32625761,
+			"wall_ms": 16.734
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32626485,
+			"wall_ms": 16.661
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32627209,
+			"wall_ms": 16.625
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32627933,
+			"wall_ms": 16.672
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32628657,
+			"wall_ms": 16.566
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32629381,
+			"wall_ms": 16.714
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32630105,
+			"wall_ms": 16.661
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32630829,
+			"wall_ms": 16.607
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32631553,
+			"wall_ms": 16.747
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32632277,
+			"wall_ms": 16.683
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32633001,
+			"wall_ms": 16.575
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32633725,
+			"wall_ms": 16.894
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32634449,
+			"wall_ms": 16.547
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32635173,
+			"wall_ms": 16.874
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32635897,
+			"wall_ms": 16.35
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32636621,
+			"wall_ms": 16.842
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32637345,
+			"wall_ms": 16.609
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32638069,
+			"wall_ms": 16.555
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32638793,
+			"wall_ms": 16.723
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32639517,
+			"wall_ms": 16.604
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32640241,
+			"wall_ms": 16.827
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32640965,
+			"wall_ms": 16.635
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.592,
+			"process_cpu_ms": 0.694,
+			"static_memory_bytes": 32642153,
+			"wall_ms": 16.919
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32642877,
+			"wall_ms": 16.686
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32643601,
+			"wall_ms": 16.831
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32644325,
+			"wall_ms": 16.371
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32645049,
+			"wall_ms": 16.723
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32645773,
+			"wall_ms": 16.551
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32646497,
+			"wall_ms": 16.724
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32647221,
+			"wall_ms": 16.688
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32647945,
+			"wall_ms": 16.601
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32648669,
+			"wall_ms": 16.641
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32649393,
+			"wall_ms": 16.649
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32650117,
+			"wall_ms": 16.689
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32650841,
+			"wall_ms": 16.664
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32651565,
+			"wall_ms": 16.71
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32652289,
+			"wall_ms": 16.616
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32653013,
+			"wall_ms": 16.779
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32653737,
+			"wall_ms": 16.578
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32654461,
+			"wall_ms": 16.724
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32655185,
+			"wall_ms": 16.742
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32655909,
+			"wall_ms": 16.545
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32656633,
+			"wall_ms": 16.709
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32657357,
+			"wall_ms": 16.661
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32658081,
+			"wall_ms": 16.549
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32658805,
+			"wall_ms": 16.757
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32659529,
+			"wall_ms": 16.735
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32660253,
+			"wall_ms": 16.619
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32660977,
+			"wall_ms": 16.66
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32661701,
+			"wall_ms": 16.711
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32662425,
+			"wall_ms": 16.541
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32663149,
+			"wall_ms": 16.639
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32663873,
+			"wall_ms": 16.688
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32664597,
+			"wall_ms": 16.793
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32665321,
+			"wall_ms": 16.971
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32666045,
+			"wall_ms": 16.424
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32666769,
+			"wall_ms": 16.517
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32667493,
+			"wall_ms": 16.753
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32668217,
+			"wall_ms": 16.484
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32671461,
+			"wall_ms": 16.753
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32672185,
+			"wall_ms": 16.724
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32672981,
+			"wall_ms": 16.707
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32673705,
+			"wall_ms": 16.552
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32674429,
+			"wall_ms": 16.627
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32675153,
+			"wall_ms": 16.631
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32675877,
+			"wall_ms": 16.86
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32676601,
+			"wall_ms": 16.65
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32677325,
+			"wall_ms": 16.526
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32678049,
+			"wall_ms": 16.654
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32678773,
+			"wall_ms": 16.777
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32679497,
+			"wall_ms": 16.594
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32680221,
+			"wall_ms": 16.819
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32680945,
+			"wall_ms": 16.549
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32681669,
+			"wall_ms": 16.998
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32682393,
+			"wall_ms": 16.551
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32683117,
+			"wall_ms": 16.394
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32683841,
+			"wall_ms": 16.722
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32684565,
+			"wall_ms": 16.596
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32685289,
+			"wall_ms": 16.804
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32686013,
+			"wall_ms": 16.779
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32686737,
+			"wall_ms": 16.494
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32687461,
+			"wall_ms": 16.719
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.361,
+			"process_cpu_ms": 0.652,
+			"static_memory_bytes": 32688185,
+			"wall_ms": 16.8
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32688909,
+			"wall_ms": 16.746
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32689633,
+			"wall_ms": 16.475
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32690357,
+			"wall_ms": 16.726
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32691081,
+			"wall_ms": 16.497
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32691805,
+			"wall_ms": 16.664
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32692529,
+			"wall_ms": 16.651
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32693253,
+			"wall_ms": 16.833
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32693977,
+			"wall_ms": 16.931
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32694701,
+			"wall_ms": 17.061
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32695497,
+			"wall_ms": 16.003
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32696221,
+			"wall_ms": 16.64
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32696945,
+			"wall_ms": 16.98
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32697669,
+			"wall_ms": 17.239
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32698393,
+			"wall_ms": 16.075
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32699117,
+			"wall_ms": 17.414
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32699841,
+			"wall_ms": 15.975
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32700565,
+			"wall_ms": 16.485
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32701289,
+			"wall_ms": 16.372
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32702013,
+			"wall_ms": 16.663
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32702737,
+			"wall_ms": 16.683
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32703461,
+			"wall_ms": 16.66
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32704185,
+			"wall_ms": 16.66
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32704909,
+			"wall_ms": 16.699
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32705633,
+			"wall_ms": 16.632
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32706357,
+			"wall_ms": 16.715
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32706649,
+			"wall_ms": 16.452
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32707373,
+			"wall_ms": 16.77
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32708097,
+			"wall_ms": 16.498
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32708821,
+			"wall_ms": 16.775
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32709545,
+			"wall_ms": 16.595
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32710269,
+			"wall_ms": 16.827
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32710993,
+			"wall_ms": 16.576
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32711717,
+			"wall_ms": 16.677
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32712441,
+			"wall_ms": 16.716
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32713165,
+			"wall_ms": 16.674
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32713889,
+			"wall_ms": 16.582
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32714613,
+			"wall_ms": 16.757
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32715337,
+			"wall_ms": 16.536
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32716061,
+			"wall_ms": 16.662
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32716785,
+			"wall_ms": 16.718
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32717509,
+			"wall_ms": 16.827
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32718233,
+			"wall_ms": 16.623
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32718957,
+			"wall_ms": 16.699
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32719681,
+			"wall_ms": 16.806
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32720405,
+			"wall_ms": 16.376
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32721129,
+			"wall_ms": 16.609
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32721853,
+			"wall_ms": 16.731
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32722577,
+			"wall_ms": 16.62
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32723301,
+			"wall_ms": 16.729
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32724025,
+			"wall_ms": 16.733
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32724749,
+			"wall_ms": 16.607
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32725473,
+			"wall_ms": 16.663
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32726197,
+			"wall_ms": 16.605
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32726921,
+			"wall_ms": 16.803
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32727645,
+			"wall_ms": 16.579
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32728369,
+			"wall_ms": 16.617
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32729093,
+			"wall_ms": 16.625
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32729817,
+			"wall_ms": 16.804
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32730541,
+			"wall_ms": 16.609
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.566,
+			"process_cpu_ms": 0.707,
+			"static_memory_bytes": 32731265,
+			"wall_ms": 16.64
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32731989,
+			"wall_ms": 16.641
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32732713,
+			"wall_ms": 16.782
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32733437,
+			"wall_ms": 16.593
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32734161,
+			"wall_ms": 16.681
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32734885,
+			"wall_ms": 16.671
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32735609,
+			"wall_ms": 16.672
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32736333,
+			"wall_ms": 16.72
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32737057,
+			"wall_ms": 17.347
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32737781,
+			"wall_ms": 16.006
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32738505,
+			"wall_ms": 16.715
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32739229,
+			"wall_ms": 16.579
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32739953,
+			"wall_ms": 16.69
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32740677,
+			"wall_ms": 16.652
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32741401,
+			"wall_ms": 16.723
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32742125,
+			"wall_ms": 17.536
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32742849,
+			"wall_ms": 15.746
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32743573,
+			"wall_ms": 16.543
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32744297,
+			"wall_ms": 16.679
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32745021,
+			"wall_ms": 16.887
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32745745,
+			"wall_ms": 16.494
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32746469,
+			"wall_ms": 16.585
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32750985,
+			"wall_ms": 16.763
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32751709,
+			"wall_ms": 16.644
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32752433,
+			"wall_ms": 16.665
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32753157,
+			"wall_ms": 16.596
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32753881,
+			"wall_ms": 16.95
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32754605,
+			"wall_ms": 16.567
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32755329,
+			"wall_ms": 16.47
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32756053,
+			"wall_ms": 16.748
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32756777,
+			"wall_ms": 16.718
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32757501,
+			"wall_ms": 16.923
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32758225,
+			"wall_ms": 16.291
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32758949,
+			"wall_ms": 16.881
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32759673,
+			"wall_ms": 16.578
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32760397,
+			"wall_ms": 16.595
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32761121,
+			"wall_ms": 16.67
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32761845,
+			"wall_ms": 16.622
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32762569,
+			"wall_ms": 16.705
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32763293,
+			"wall_ms": 16.671
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32764017,
+			"wall_ms": 16.794
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32764741,
+			"wall_ms": 16.499
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32765465,
+			"wall_ms": 16.675
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32766189,
+			"wall_ms": 16.648
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32766913,
+			"wall_ms": 16.674
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32767637,
+			"wall_ms": 16.706
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32768361,
+			"wall_ms": 16.597
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32769085,
+			"wall_ms": 16.914
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32769809,
+			"wall_ms": 16.458
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32770533,
+			"wall_ms": 18.92
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32771257,
+			"wall_ms": 14.629
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32771981,
+			"wall_ms": 17.366
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32772705,
+			"wall_ms": 16.364
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32773429,
+			"wall_ms": 16.291
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32774153,
+			"wall_ms": 17.241
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32774877,
+			"wall_ms": 16.167
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32775601,
+			"wall_ms": 16.636
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32776325,
+			"wall_ms": 16.696
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32777049,
+			"wall_ms": 16.603
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32777773,
+			"wall_ms": 16.728
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.75,
+			"process_cpu_ms": 0.712,
+			"static_memory_bytes": 32778497,
+			"wall_ms": 16.622
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32779221,
+			"wall_ms": 20.703
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32779945,
+			"wall_ms": 12.471
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32780669,
+			"wall_ms": 16.862
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32781393,
+			"wall_ms": 16.619
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32782117,
+			"wall_ms": 16.665
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32782841,
+			"wall_ms": 17.77
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32783565,
+			"wall_ms": 15.596
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32784289,
+			"wall_ms": 16.654
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32785013,
+			"wall_ms": 16.539
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32785737,
+			"wall_ms": 16.796
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32786461,
+			"wall_ms": 16.693
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32787185,
+			"wall_ms": 16.777
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32787909,
+			"wall_ms": 16.261
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32788633,
+			"wall_ms": 16.678
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32789357,
+			"wall_ms": 16.611
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32790081,
+			"wall_ms": 16.913
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32790805,
+			"wall_ms": 16.585
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32791529,
+			"wall_ms": 16.803
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32792253,
+			"wall_ms": 16.692
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32792977,
+			"wall_ms": 16.587
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32793701,
+			"wall_ms": 16.662
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32794425,
+			"wall_ms": 16.422
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32795149,
+			"wall_ms": 16.711
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32795873,
+			"wall_ms": 17.015
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32796597,
+			"wall_ms": 16.349
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32797321,
+			"wall_ms": 16.632
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32798045,
+			"wall_ms": 16.757
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32798769,
+			"wall_ms": 16.507
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32799493,
+			"wall_ms": 16.736
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32800217,
+			"wall_ms": 16.732
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32800941,
+			"wall_ms": 16.821
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32801665,
+			"wall_ms": 16.433
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32802389,
+			"wall_ms": 16.647
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32803113,
+			"wall_ms": 16.785
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32803837,
+			"wall_ms": 16.54
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32804561,
+			"wall_ms": 16.665
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32805285,
+			"wall_ms": 16.615
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32806009,
+			"wall_ms": 16.785
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32806733,
+			"wall_ms": 16.765
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32807457,
+			"wall_ms": 16.651
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32808181,
+			"wall_ms": 16.477
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32808905,
+			"wall_ms": 16.677
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32809629,
+			"wall_ms": 16.67
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32810353,
+			"wall_ms": 16.918
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32811077,
+			"wall_ms": 16.482
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32811801,
+			"wall_ms": 16.597
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32812525,
+			"wall_ms": 16.792
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32813249,
+			"wall_ms": 16.595
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32813973,
+			"wall_ms": 16.933
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32814697,
+			"wall_ms": 16.364
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32815421,
+			"wall_ms": 16.669
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32816145,
+			"wall_ms": 16.649
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32816869,
+			"wall_ms": 16.584
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32817593,
+			"wall_ms": 16.802
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32818781,
+			"wall_ms": 16.897
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32819505,
+			"wall_ms": 16.673
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32820421,
+			"wall_ms": 16.562
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32821145,
+			"wall_ms": 16.683
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32821869,
+			"wall_ms": 16.672
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 2.24,
+			"process_cpu_ms": 0.915,
+			"static_memory_bytes": 32822593,
+			"wall_ms": 16.875
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32823317,
+			"wall_ms": 16.495
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32824041,
+			"wall_ms": 16.719
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32824765,
+			"wall_ms": 16.953
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32825489,
+			"wall_ms": 16.568
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32826213,
+			"wall_ms": 16.653
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32826937,
+			"wall_ms": 16.598
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32827661,
+			"wall_ms": 16.74
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32828385,
+			"wall_ms": 16.616
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32829109,
+			"wall_ms": 16.929
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32829833,
+			"wall_ms": 16.811
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32830557,
+			"wall_ms": 16.432
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32831281,
+			"wall_ms": 16.578
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32832005,
+			"wall_ms": 16.87
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32832729,
+			"wall_ms": 16.761
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32833453,
+			"wall_ms": 16.393
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32834177,
+			"wall_ms": 16.63
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32834901,
+			"wall_ms": 16.4
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32835625,
+			"wall_ms": 16.773
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32836349,
+			"wall_ms": 16.591
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32837073,
+			"wall_ms": 16.708
+		},
+		{
+			"gpu_ms": null,
+			"physics_cpu_ms": 0.474,
+			"process_cpu_ms": 0.731,
+			"static_memory_bytes": 32837797,
+			"wall_ms": 16.855
+		}
+	],
+	"scene": "2d",
+	"summary": {
+		"budget_ms": 16.6666666666667,
+		"gpu_mean_ms": null,
+		"gpu_samples": 0,
+		"max_ms": 20.703,
+		"mean_ms": 16.6671651376147,
+		"over_budget": 213,
+		"p50_ms": 16.665,
+		"p95_ms": 16.931,
+		"p99_ms": 17.536,
+		"peak_static_memory_bytes": 32837797,
+		"physics_cpu_mean_ms": 4.72746330275234,
+		"process_cpu_mean_ms": 0.755243119266054,
+		"samples": 436
+	},
+	"target_fps": 60,
+	"timing_scope": "Wall frame intervals include pacing; CPU monitors and viewport GPU timings are not additive. GPU null means unavailable.",
+	"viewport": [
+		64,
+		64
+	]
+}

@@ -1,0 +1,42 @@
+{
+  "scope": "Standalone C++ logic, not rendered FPS",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "results": [
+    {
+      "checks": 32,
+      "cpp": 201703,
+      "region_iterations": 10000,
+      "region_mean_us": 0.79279,
+      "checksum": 313653,
+      "command": [
+        "g++",
+        "-std=c++17",
+        "-O2",
+        "-Wall",
+        "-Wextra",
+        "-Werror",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/tests/core_test.cpp",
+        "-o",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/build/core-test-c++17"
+      ]
+    },
+    {
+      "checks": 32,
+      "cpp": 202002,
+      "region_iterations": 10000,
+      "region_mean_us": 0.758173,
+      "checksum": 313653,
+      "command": [
+        "g++",
+        "-std=c++20",
+        "-O2",
+        "-Wall",
+        "-Wextra",
+        "-Werror",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/tests/core_test.cpp",
+        "-o",
+        "/workspace/scratch/7ecdc3b72e94/bigarcade-engine/foundation/build/core-test-c++20"
+      ]
+    }
+  ]
+}
